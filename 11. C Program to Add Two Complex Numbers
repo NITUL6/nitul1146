@@ -12,3 +12,4 @@ int main() {
     sum.imag=(num1.imag+num2.imag);
     printf("Sum of the complex number:%.2f+%.2fi\n",sum.real,sum.imag);
  return 0;
+}
